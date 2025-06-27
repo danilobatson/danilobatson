@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Danilo. I also go by my middle name, Jamaal.
+# 👋🏾 Hi there I'm Danilo. I also go by my middle name, Jamaal.
 
 **Software Engineer** | **AI Devloeper** | **React Native Professional** | **From Nursing to Tech**
 Currently building cross-platform mobile/web apps at LunarCrush with 4+ years of startup experience delivering scalable solutions that drive business outcomes.
