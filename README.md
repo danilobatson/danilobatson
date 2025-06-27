@@ -1,4 +1,4 @@
-# Hi there 👋. I'm Danilo. I also go by my middle name, Jamaal.
+# Hi there 👋 I'm Danilo. I also go by my middle name, Jamaal.
 
 **Software Engineer** | **AI Devloeper** | **React Native Professional** | **From Nursing to Tech**
 
