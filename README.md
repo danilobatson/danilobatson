@@ -1,7 +1,9 @@
 # 👋🏾 Hi there I'm Danilo Jamaal
 
 **Senior Full Stack Engineer** | **React Native** | **Next.js** | **TypeScript** | Available Immediately
-Building cross-platform apps at scale • 4+ years startup experience
+
+Building cross-platform apps at scale • 5+ years startup experience
+
 📧 djbatson19@gmail.com
 
 
@@ -20,7 +22,7 @@ Was 10 months from graduating nursing school when Covid-19 halted the curriculum
 
 
 ## 📝 Technical Writing
-I write about AI development, mobile engineering, and career transitions on [Dev.to](https://dev.to/dbatson)
+I publish hands-on tutorials on [Dev.to](https://dev.to/dbatson) — practical guides that help developers build AI integrations, real-time dashboards, and full-stack applications in under 30 minutes.
 
 ## 📫 Let's Connect
 - **Portfolio:** [danilobatson.github.io](https://danilobatson.github.io)
