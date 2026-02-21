@@ -15,7 +15,7 @@ Building cross-platform apps at scale • 5+ years startup experience
 - **Backend:** Node.js, GraphQL, Express
 - **Data:** MongoDB, Supabase, PostgreSQL
 - **Cloud:** Cloudflare, Azure, Firebase
-- **AI Integration:** Google Gemini, MCP Protocol, OpenAI
+- **AI Engineering:** MCP Protocol, LLM Integration, RAG Systems, Agent Architectures
 
 ## 💡 Background
 Was 10 months from graduating nursing school when Covid-19 halted the curriculum and I pivoted to software engineering. Healthcare background = systematic problem-solving and attention to detail.
