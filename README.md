@@ -1,6 +1,6 @@
 # 👋🏾 Hi there I'm Danilo Jamaal
 
-**Senior Full Stack Engineer** | **React Native** | **Next.js** | **TypeScript** | Available Immediately
+**Senior Full Stack Engineer** | **AI Engineering** | **React Native** | **Next.js** | **TypeScript**  
 
 Building cross-platform apps at scale • 5+ years startup experience
 
