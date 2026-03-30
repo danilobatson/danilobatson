@@ -1,33 +1,44 @@
-# 👋🏾 Hi there I'm Danilo Jamaal
+# Hey, I'm Jamaal 👋🏾
 
-**Senior Full Stack Engineer** | **AI Engineering** | **React Native** | **Next.js** | **TypeScript**  
+**Danilo Jamaal Batson** | **AI Engineer** | **Full Stack Developer** 
 
-Building cross-platform apps at scale • 5+ years startup experience
+I build AI-powered applications in TypeScript. I ship tools that help developers integrate LLMs, agents, and observability into production apps — with built-in security and zero vendor lock-in.
 
-📧 djbatson19@gmail.com
+## 🔧 What I'm Building
 
+### [@jamaalbuilds/ai-toolkit](https://github.com/danilobatson/ai-toolkit)
+Unified TypeScript SDK for AI applications. 17 modules wrapping Vercel AI SDK, LangChain, LangGraph, Langfuse, Inngest, and MCP behind one consistent API.
 
-## 🚀 What I Build
-🤖 AI-powered platforms • 📱 Production React Native apps • ⚡ High-performance dashboards • 🔄 Robust CI/CD pipelines
+- **720 tests** · 30-page docs site · Published on npm
+- Modules: AI generation, RAG pipelines, multi-agent graphs, durable workflows, MCP servers, PII detection, vector search, observability
+- **[Documentation](https://ai-toolkit-docs.vercel.app)** · **[npm](https://www.npmjs.com/package/@jamaalbuilds/ai-toolkit)**
 
-- **Mobile:** React Native, Expo
-- **Web:** Next.js, React, TypeScript
-- **Backend:** Node.js, GraphQL, Express
-- **Data:** MongoDB, Supabase, PostgreSQL
-- **Cloud:** Cloudflare, Azure, Firebase
-- **AI Engineering:** MCP Protocol, LLM Integration, RAG Systems, Agent Architectures
+```bash
+yarn add @jamaalbuilds/ai-toolkit
+```
 
-## 💡 Background
-Was 10 months from graduating nursing school when Covid-19 halted the curriculum and I pivoted to software engineering. Healthcare background = systematic problem-solving and attention to detail.
+### Other Published Packages
+- **[@jamaalbuilds/lunarcrush-api](https://www.npmjs.com/package/@jamaalbuilds/lunarcrush-api)** — TypeScript SDK for social intelligence data
+- **[@jamaalbuilds/lunarcrush-mcp](https://www.npmjs.com/package/@jamaalbuilds/lunarcrush-mcp)** — MCP server connecting AI assistants to real-time crypto sentiment
 
+## 🛠 Stack
 
-## 📝 Technical Writing
-I publish hands-on tutorials on [Dev.to](https://dev.to/dbatson) — practical guides that help developers build AI integrations, real-time dashboards, and full-stack applications in under 30 minutes.
+**AI/ML:** Vercel AI SDK, LangChain.js, LangGraph.js, Langfuse, Inngest, MCP Protocol, RAG, Agent Architectures
 
-## 📫 Let's Connect
+**Frontend:** React, React Native, Next.js, TypeScript, Tailwind CSS
+
+**Backend:** Node.js, NestJS, GraphQL, PostgreSQL, Drizzle ORM, Redis
+
+**Infrastructure:** Vercel, Cloudflare Workers, GitHub Actions, Docker
+
+## 📝 Writing
+
+I publish hands-on tutorials on [Dev.to](https://dev.to/dbatson) — practical guides for building AI integrations, real-time dashboards, and full-stack apps.
+
+## 📫 Connect
+
 - **Portfolio:** [danilobatson.github.io](https://danilobatson.github.io)
 - **LinkedIn:** [linkedin.com/in/danilo-batson](https://linkedin.com/in/danilo-batson)
+- **npm:** [@jamaalbuilds](https://www.npmjs.com/~jamaalbuilds)
 - **Dev.to:** [dev.to/dbatson](https://dev.to/dbatson)
 - **Email:** djbatson19@gmail.com
-
-**I respond to all messages within 24 hours.**
