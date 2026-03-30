@@ -1,8 +1,8 @@
 # Hey, I'm Jamaal 👋🏾
 
-**Danilo Jamaal Batson** | **AI Engineer** | **Full Stack Developer** 
+**Danilo Jamaal Batson** · AI Engineer · Full Stack Developer
 
-I build AI-powered applications in TypeScript. I ship tools that help developers integrate LLMs, agents, and observability into production apps — with built-in security and zero vendor lock-in.
+I build AI-powered applications in TypeScript — tools that help developers integrate LLMs, agents, and observability into production apps with built-in security and zero vendor lock-in.
 
 ## 🔧 What I'm Building
 
@@ -17,9 +17,13 @@ Unified TypeScript SDK for AI applications. 17 modules wrapping Vercel AI SDK, L
 yarn add @jamaalbuilds/ai-toolkit
 ```
 
-### Other Published Packages
-- **[@jamaalbuilds/lunarcrush-api](https://www.npmjs.com/package/@jamaalbuilds/lunarcrush-api)** — TypeScript SDK for social intelligence data
-- **[@jamaalbuilds/lunarcrush-mcp](https://www.npmjs.com/package/@jamaalbuilds/lunarcrush-mcp)** — MCP server connecting AI assistants to real-time crypto sentiment
+### [AI Trading Agent](https://github.com/danilobatson/ai-trading-agent-gemini)
+Transforms social media sentiment into trading signals using Google Gemini AI and real-time LunarCrush data. Features background job processing with Inngest, live dashboard updates via Supabase subscriptions, and streaming progress tracking.
+
+### Other Projects
+- **[AI Viral Prediction Tool](https://github.com/danilobatson/ai-viral-prediction-tool)** — Real-time viral content predictor using Gemini AI + MCP Protocol
+- **[LunarCrush MCP Terminal](https://github.com/danilobatson/lunarcrush_mcp)** — AI-powered trading terminal with MCP social intelligence integration
+- **[@jamaalbuilds/lunarcrush-api](https://www.npmjs.com/package/@jamaalbuilds/lunarcrush-api)** — TypeScript SDK for social intelligence data (npm)
 
 ## 🛠 Stack
 
